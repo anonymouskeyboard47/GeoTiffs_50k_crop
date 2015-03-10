@@ -4,11 +4,15 @@ Spatial imagery from Kenya's Ministry of Lands
 <H2>Rasters Folder - v1</H2>
 9 March 2015
 
+<BR></BR>
 <H4>TOC</H4>
 <UL>
 <LI>Description of the folder
+<LI>Objective
+<LI>GeoTiifs_50k_crop
 <LI>List of different area names for each image in GeoTiffs_50k_crop
 </UL>
+
 
 <BR></BR>
 <P>
@@ -20,6 +24,17 @@ Map/Spatial data may include images from satellite images, aerial surveys, drone
 The raster imagery data will be stored in its raw format and as GeoTiffs. These two formats help people with several different applications to view the same data, but in different formats.
 </P>
 
+
+<BR></BR>
+<P>
+<H4>Goals of this folder in relation to Shambamap</H4>
+Shambamap's main objective is to make sure data from the Ministry of Lands is available to the general public and reusable using any platform. This provides advantages such as making sure anyone in Kenya can have equal competitive advantage in accessing, processing, and analysing land information so that it is possible to engage in both national and personal growth. Shambamap will make the data available through smart phones, tablets, smart watches, desktop computers, data kiosks, or any other computing platform that can connect to the Internet.
+
+</BR>
+This folder ensures imagery that is publicly available to surveyors and GIS experts is provided for free on a standard publicly accessible platform. As a disclaimer, this data is provided AS IS with no implied guarantees of authenticity, accuracy, or relibility of access. Please use it for legal means only.
+</P>
+
+
 <BR></BR>
 <P>
 <H4>GeoTiffs_50k_crop</H4>
@@ -29,7 +44,6 @@ GeoTiffs_50k_crop are Tiff images that represent maps at a scale of 1:50000. The
 <BR></BR>
 <P>
 <H4>Description of different area names for each image in GeoTiffs_50k_crop</H4>
-
 
 <PRE>
 
