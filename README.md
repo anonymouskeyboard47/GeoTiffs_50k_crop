@@ -35,8 +35,8 @@ The raster imagery data will be stored in its raw format and as GeoTiffs. These 
 104_3-Lembus Forest
 117_1-Chemelil Sugar Estate
 117_4-South Western Mau Forest
-118_1-Mount Londiani Forest and Tinderet Forest and Western Mau Forest
-118_2-Mount Londiani Forest and Kampi Ya Moto
+118_1-Mount Londiani Forest, Tinderet Forest and Western Mau Forest
+118_2-Mount Londiani Forest, Kampi Ya Moto
 118_3-South Western Mau Nature Reserve
 118_4-Eastern Mau Forest
 119_1-Menengai Crater and Bahati Forest
@@ -47,13 +47,10 @@ The raster imagery data will be stored in its raw format and as GeoTiffs. These 
 120_2-Solio Game Park and Ol Pejeta Ranching Estate
 120_3-Aberdare Forest and Kipipiri Forest and Aberdare Range and Aberdare National Park
 120_4-Aberdare Forest and Aberdare National Park and Nyeri Forest
-121- Mount Kenya Forest
 121_2-Mount Kenya National Park and Mount Kenya's Peaks
-122 - Mount Kenya Forest Periphery
 122_1-Mount Kenya Forest
 122_3-Mount Kenya Forest
 123_2-Meru National Park and Kora National Reserve
-124-Kora National Reserve
 124_1-Kora National Reserve
 143_4-Kiribo Plain
 148_1-Limuti, Kikuyu Escarpment, Muguga, Kiambu Western Grazing Area
@@ -62,15 +59,16 @@ The raster imagery data will be stored in its raw format and as GeoTiffs. These 
 148_4-Nairobi Central Business District, Nairobi National Park, Mavoko Municipality, Jomo Kenyatta International Airport, Kitengela Game Conservation Area, Athi Plains
 149_4-Kanzalu Range
 160_4-Lake Magadi, Long Island, Soda Ash processing pump houses, Lake Magadi Salt Evaporation Pans, 
-198_2-Bahari, Ganze, Roka, Kauma, Tezo and Kaloeni and Mwarakaya and Chonyi
+161_2-Kitengela Game Reserve Area, Kaputiei Plains, Isinya
+198_2-Bahari, Ganze, Roka, Kauma, Tezo, Kaloeni, Mwarakaya and Chonyi
 198_4-Kisauni, Bahari, Junju, Kaloleni, Mtwapa, Mwambe
 199_3-Mkomazi Game Reserve
 199_4-Umba River Game Controlled Area
 199W-1-Umba Sieppe Game Reserve
 199W_2-Mkomazi Game Reserve, Tsavo National Park
-200_3-Kubo and Kinango and Msambweni and Mwereni and Lunga Lunga and Kikoneni
-200_4-Matuga and Msambweni and Kubo and Majimboni and Mkongani and Lukore and Diani and Shirazi/Funzi
-201_1-Likoni and Kinango and Matuga and Mvita and Kisauni and Tiwi and Ngombeni and Kizingo and Majengo and Tsimba
+200_3-Kubo, Kinango, Msambweni, Mwereni, Lunga Lunga, Kikoneni
+200_4-Matuga, Msambweni, Kubo, Majimboni, Mkongani, Lukore, Diani, Shirazi/Funzi
+201_1-Likoni, Kinango, Matuga, Mvita, Kisauni, Tiwi, Ngombeni, Kizingo, Majengo, Tsimba
 
 </PRE>
 </P>
