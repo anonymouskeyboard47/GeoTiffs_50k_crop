@@ -4,7 +4,7 @@ Spatial imagery from Kenya#s Ministry of Lands
 <H2>Rasters Folder - v1</H2>
 9 March 2015
 
-TOC
+<H4>TOC</H4>
 Description of the folder
 List of different area names for each image in GeoTiffs_50k_crop
 
