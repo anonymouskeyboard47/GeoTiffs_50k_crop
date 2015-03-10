@@ -10,6 +10,7 @@ Spatial imagery from Kenya's Ministry of Lands
 <LI>List of different area names for each image in GeoTiffs_50k_crop
 </UL>
 
+<BR></BR>
 <P>
 <H4>Description of the sub-folders</H4>
 The Rasters folder will hold all the imagery for Shambamap. All map/spatial data acquired from the Ministry of Lands in hard copy form will be scanned and stored in this folder. Map/Spatial data is not the same as building photos, scanned legal text documents, or any other material that is not classified as spatial data.
@@ -19,9 +20,16 @@ Map/Spatial data may include images from satellite images, aerial surveys, drone
 The raster imagery data will be stored in its raw format and as GeoTiffs. These two formats help people with several different applications to view the same data, but in different formats.
 </P>
 
+<BR></BR>
+<P>
+<H>GeoTiffs_50k_crop</H4>
+GeoTiffs_50k_crop are Tiff images that represent maps at a scale of 1:50000. The images are processed from other georeferenced rasters scanned from topographicals sheets of the same scale, all found within the Rasters_rrd folder. The GeoTiffs_50k_crop have the georeferencing information embedded within the image. The images can be used in any software that can use GeoTiffs, such as Tilemill or QGIS.
+</P>
 
+<BR></BR>
 <P>
 <H4>Description of different area names for each image in GeoTiffs_50k_crop</H4>
+
 
 <PRE>
 
