@@ -9,7 +9,7 @@ Description of the folder
 List of different area names for each image in GeoTiffs_50k_crop
 
 
-Description of the sub-folders
+<H4>Description of the sub-folders</H4>
 The rasters folder will hold all the imagery for Shambamap. All map/spatial data acquired from the Ministry of Lands in hard copy form will be scanned and stored in this folder. Map/Spatial data is not the same as building photos, scanned legal text documents, or any other material that is not classified as spatial data.
 
 Map/Spatial data may include images from satellite images, aerial surveys, drones, scanned maps, scanned title deeds, scanned historical/archived plans, deed plans, and other material that can be considered to provide core spatial information.
@@ -17,7 +17,7 @@ Map/Spatial data may include images from satellite images, aerial surveys, drone
 The raster imagery data will be stored in its raw format and as GeoTiffs. These two formats help people with several different applications to view the same data, but in different formats.
 
 
-List of different area names for each image in GeoTiffs_50k_crop
+<H4>Description of different area names for each image in GeoTiffs_50k_crop</H4>
 66_4-Ndoto Forest and Ndoto Range
 102_4-Kakamega Forest
 103_1-North Nandi Forest
