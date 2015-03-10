@@ -35,19 +35,19 @@ The raster imagery data will be stored in its raw format and as GeoTiffs. These 
 104_3-Lembus Forest
 117_1-Chemelil Sugar Estate
 117_4-South Western Mau Forest
-118_1-Mount Londiani Forest, Tinderet Forest and Western Mau Forest
+118_1-Mount Londiani Forest, Tinderet Forest, Western Mau Forest
 118_2-Mount Londiani Forest, Kampi Ya Moto
 118_3-South Western Mau Nature Reserve
 118_4-Eastern Mau Forest
-119_1-Menengai Crater and Bahati Forest
-119_2-Aberdare Forest and Lake Bolossat
+119_1-Menengai Crater, Bahati Forest
+119_2-Aberdare Forest, Lake Bolossat
 119_3-Lake Nakuru National Park
 119_4-Ol Kalou settlement
 120_1-Aberdare Forest
-120_2-Solio Game Park and Ol Pejeta Ranching Estate
-120_3-Aberdare Forest and Kipipiri Forest and Aberdare Range and Aberdare National Park
-120_4-Aberdare Forest and Aberdare National Park and Nyeri Forest
-121_2-Mount Kenya National Park and Mount Kenya's Peaks
+120_2-Solio Game Park, Ol Pejeta Ranching Estate
+120_3-Aberdare Forest, Kipipiri Forest, Aberdare Range, Aberdare National Park
+120_4-Aberdare Forest, Aberdare National Park, Nyeri Forest
+121_2-Mount Kenya National Park, Mount Kenya's Peaks
 122_1-Mount Kenya Forest
 122_3-Mount Kenya Forest
 123_2-Meru National Park and Kora National Reserve
