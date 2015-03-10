@@ -1,7 +1,7 @@
 # Rasters
 Spatial imagery from Kenya#s Ministry of Lands
 
-Rasters Folder - v1
+<H2>Rasters Folder - v1</H2>
 9 March 2015
 
 TOC
