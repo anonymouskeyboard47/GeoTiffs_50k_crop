@@ -22,7 +22,7 @@ The raster imagery data will be stored in its raw format and as GeoTiffs. These 
 
 <BR></BR>
 <P>
-<H>GeoTiffs_50k_crop</H4>
+<H4>GeoTiffs_50k_crop</H4>
 GeoTiffs_50k_crop are Tiff images that represent maps at a scale of 1:50000. The images are processed from other georeferenced rasters scanned from topographicals sheets of the same scale, all found within the Rasters_rrd folder. The GeoTiffs_50k_crop have the georeferencing information embedded within the image. The images can be used in any software that can use GeoTiffs, such as Tilemill or QGIS.
 </P>
 
