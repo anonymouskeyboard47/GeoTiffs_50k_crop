@@ -50,7 +50,7 @@ The raster imagery data will be stored in its raw format and as GeoTiffs. These 
 121_2-Mount Kenya National Park, Mount Kenya's Peaks
 122_1-Mount Kenya Forest
 122_3-Mount Kenya Forest
-123_2-Meru National Park and Kora National Reserve
+123_2-Meru National Park, Kora National Reserve
 124_1-Kora National Reserve
 143_4-Kiribo Plain
 148_1-Limuti, Kikuyu Escarpment, Muguga, Kiambu Western Grazing Area
