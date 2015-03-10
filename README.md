@@ -12,7 +12,7 @@ Spatial imagery from Kenya#s Ministry of Lands
 
 <P>
 <H4>Description of the sub-folders</H4>
-The rasters folder will hold all the imagery for Shambamap. All map/spatial data acquired from the Ministry of Lands in hard copy form will be scanned and stored in this folder. Map/Spatial data is not the same as building photos, scanned legal text documents, or any other material that is not classified as spatial data.
+The Rasters folder will hold all the imagery for Shambamap. All map/spatial data acquired from the Ministry of Lands in hard copy form will be scanned and stored in this folder. Map/Spatial data is not the same as building photos, scanned legal text documents, or any other material that is not classified as spatial data.
 
 Map/Spatial data may include images from satellite images, aerial surveys, drones, scanned maps, scanned title deeds, scanned historical/archived plans, deed plans, and other material that can be considered to provide core spatial information.
 
