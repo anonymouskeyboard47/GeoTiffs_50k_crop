@@ -57,12 +57,13 @@ The raster imagery data will be stored in its raw format and as GeoTiffs. These 
 148_3-Ngong Forest, Dagoretti Forest, Embakasi Forest, Olepolos, Balbal Olera, Kiambu Western Grazing Area, Esaigeri, Kiserian
 148_4-Nairobi Central Business District, Nairobi National Park, Mavoko Municipality, Jomo Kenyatta International Airport, Kitengela Game Conservation Area, Athi Plains
 149_4-Kanzalu Range
-198_2-Bahari and Ganze and Roka and Kauma and Tezo and Kaloeni and Mwarakaya and Chonyi
-198_4-Kisauni and Bahari and Junju and Kaloleni and Mtwapa and Mwambe
+160_4-Lake Magadi, Long Island, Soda Ash processing pump houses, Lake Magadi Salt Evaporation Pans, 
+198_2-Bahari, Ganze, Roka, Kauma, Tezo and Kaloeni and Mwarakaya and Chonyi
+198_4-Kisauni, Bahari, Junju, Kaloleni, Mtwapa, Mwambe
 199_3-Mkomazi Game Reserve
 199_4-Umba River Game Controlled Area
 199W-1-Umba Sieppe Game Reserve
-199W_2-Mkomazi Game Reserve and Tsavo National Park
+199W_2-Mkomazi Game Reserve, Tsavo National Park
 200_3-Kubo and Kinango and Msambweni and Mwereni and Lunga Lunga and Kikoneni
 200_4-Matuga and Msambweni and Kubo and Majimboni and Mkongani and Lukore and Diani and Shirazi/Funzi
 201_1-Likoni and Kinango and Matuga and Mvita and Kisauni and Tiwi and Ngombeni and Kizingo and Majengo and Tsimba
