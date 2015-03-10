@@ -18,6 +18,9 @@ The raster imagery data will be stored in its raw format and as GeoTiffs. These 
 
 
 <H4>Description of different area names for each image in GeoTiffs_50k_crop</H4>
+
+<PRE>
+
 66_4-Ndoto Forest and Ndoto Range
 102_4-Kakamega Forest
 103_1-North Nandi Forest
@@ -63,3 +66,5 @@ The raster imagery data will be stored in its raw format and as GeoTiffs. These 
 200_3-Kubo and Kinango and Msambweni and Mwereni and Lunga Lunga and Kikoneni
 200_4-Matuga and Msambweni and Kubo and Majimboni and Mkongani and Lukore and Diani and Shirazi/Funzi
 201_1-Likoni and Kinango and Matuga and Mvita and Kisauni and Tiwi and Ngombeni and Kizingo and Majengo and Tsimba
+
+</PRE>
