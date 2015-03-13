@@ -7,7 +7,7 @@
 <UL>
 <LI>Description of the folder
 <LI>Objective
-<LI>GeoTiifs_50k_crop
+<LI>GeoTiffs_50k_crop
 <LI>List of different area names for each image in GeoTiffs_50k_crop
 </UL>
 
